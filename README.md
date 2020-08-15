@@ -4,7 +4,7 @@ You will build a program that asks the user multiplication problems and keeps tr
 
 <h3>Requirements</h3>
 <ul>
-  <li>The system will generate two random number between 1 and 12</li>
+  <li>The system will generate two random number between 0 and 12</li>
   <li>The user can see the multiplication problem on the screen</li>
   <li>The user can enter their answer</li>
   <li>The system will ask 20 questions</li>
@@ -24,6 +24,7 @@ Result: 85%<br>
 Again(y/n): y<br>
 <br>
 5x5=*25*<br>
-...<br><br>
+...<br>
+2x0=*25*<br>
 Result: 55%<br>
 Again(y/n): n
