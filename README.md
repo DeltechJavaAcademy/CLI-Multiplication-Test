@@ -15,16 +15,16 @@ You will build a program that asks the user multiplication problems and keeps tr
  
 <h3>Mock Ups</h3>
 Math Time!<br>
-4x6= *24* <br>
-1x8= *8* <br>
+4x6= 24 <br>
+1x8= 8 <br>
 ...<br>
-3x9= *24* <br>
+3x9= 24 <br>
 <br>
 Result: 85%<br>
 Again(y/n): y<br>
 <br>
-5x5= *25* <br>
+5x5= 25 <br>
 ...<br>
-2x0= *25* <br>
+2x0= 25 <br>
 Result: 55%<br>
 Again(y/n): n
