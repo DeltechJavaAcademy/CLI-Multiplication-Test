@@ -14,19 +14,18 @@ You will build a program that asks the user multiplication problems and keeps tr
  </ul>
  
 <h3>Mock Ups</h3>
-Math Time!
+Math Time!<br>
+4x6=*24*<br>
+1x8=*8*<br>
+...<br>
+3x9=*24*<br>
 <br>
-4x6=*24*
-1x8=*8*
-...
-3x9=*24*
-
-Result: 85%
-
-Again(y/n): y
-
-5x5=*25*
-...
-Result: 55%
-
+Result: 85%<br>
+<br>
+Again(y/n): y<br>
+<br>
+5x5=*25*<br>
+...<br>
+Result: 55%<br>
+<br>
 Again(y/n): n
