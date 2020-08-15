@@ -21,11 +21,9 @@ Math Time!<br>
 3x9=*24*<br>
 <br>
 Result: 85%<br>
-<br>
 Again(y/n): y<br>
 <br>
 5x5=*25*<br>
-...<br>
+...<br><br>
 Result: 55%<br>
-<br>
 Again(y/n): n
