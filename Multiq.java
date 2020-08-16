@@ -8,11 +8,17 @@ public class Multiq {
 	        Scanner input = new Scanner(System.in);
 	        System.out.println("Math Time!");
 	        
+	        int n = 21;
+	        int counter = 0;
+	        while (counter < n) {
+	        
 	        int firstnum = (int)(Math.random() * 12);
 	        int secondnum = (int)(Math.random ()* 12);	
 	        int calcanswer = firstnum * secondnum;
+	        
+	       
 	        		
-	          
+	        
 	        
 	        System.out.println(firstnum + "*" + secondnum + "= " );	  
 	        
@@ -24,21 +30,16 @@ public class Multiq {
 	        	             
 	        System.out.println("Your answer is " + firstnum + "*" + secondnum + "= " + answer);	  
 	        System.out.println("Correct answer: " + firstnum + "*" + secondnum + "= " + calcanswer);	
-	        
-	       //int result1 =  firstnum * secondnum;
-		   // int x = result1;
-		    
-					
-	  //      int comp1 =  0;
-	     //   int i = 0;
+		  
+			counter++;		
+			System.out.println("Counter = " + counter);	  
+	     
 	           
 	     
-	     //      While (counter < n);		
+	    		
 	    //        i: 20;
 	        
-	              
-	//          int result2 = input.nextInt();
-	     
+	                 
 	   
 	  //         if (result1 == result2) {
 	    //  	  System.out.println("Result: "  + comp1 );
@@ -50,6 +51,7 @@ public class Multiq {
 			
 		}
 	    }
+}
        
        
        
