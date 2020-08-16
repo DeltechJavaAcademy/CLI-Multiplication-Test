@@ -12,7 +12,7 @@ public class Multiq {
 	        int firstnum = (int)(Math.random() * 12);
 	        int secondnum = (int)(Math.random ()* 12);	
 	        
-	        System.out.println(firstnum + " " + secondnum);
+	        System.out.println(firstnum + "*" + secondnum + "= ");
 	       //int result1 =  firstnum * secondnum;
 		   // int x = result1;
 		    
