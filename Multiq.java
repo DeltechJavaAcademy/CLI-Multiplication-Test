@@ -3,8 +3,7 @@ import java.util.*;
 public class Multiq {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-				
+		
 			
 	        Scanner input = new Scanner(System.in);
 	        System.out.println("Math Time!");
@@ -12,10 +11,16 @@ public class Multiq {
 	        int firstnum = (int)(Math.random() * 12);
 	        int secondnum = (int)(Math.random ()* 12);	
 	        
-	        System.out.println(firstnum + "*" + secondnum + "= ");
+	        System.out.println(firstnum + "*" + secondnum + "= " );	   
+	        
+	        System.out.println("Enter your answer: ");
+	        
+	        int answer = input.nextInt();
+	        	             
+	        System.out.println("Your answer is " + firstnum + "*" + secondnum + "= " + answer);	  
+	        
 	       //int result1 =  firstnum * secondnum;
 		   // int x = result1;
-		    
 		    
 					
 	  //      int comp1 =  0;
@@ -24,7 +29,7 @@ public class Multiq {
 	     
 	     //      While (counter < n);		
 	    //        i: 20;
-	  //          System.out.println("Enter result");
+	        
 	              
 	//          int result2 = input.nextInt();
 	     
@@ -39,7 +44,20 @@ public class Multiq {
 			
 		}
 	    }
-  //      }
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
 
 	    
 
